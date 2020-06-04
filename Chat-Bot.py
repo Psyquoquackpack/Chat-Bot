@@ -1,4 +1,3 @@
-#Chat-Bot
 import random
 repaupif = ["vraiment ?",
             "Hmmmmm.",
@@ -12,6 +11,9 @@ repaupif = ["vraiment ?",
             "tu fait quoi sinnon ?",
             "Evetuellement"]
 dicorepo = {"content":"Moi aussi, je suis content",
+            "bot":"Tes sur que je suis un bot?",
+            "bitched":"https://youtu.be/cuVAIkjkaLw",
+            "suicide":"Si quelqu'un envisage de se suicider, ne le faites pas. Ce n'est pas la peine, appelez plutôt ce numéro: 1-800-273-8255. Ou si vous n'êtes pas aux États-Unis, vous pouvez trouver votre ligne locale ici: http://www.suicide.org/international-suicide-hotlines.html",
             "salut":"Bonjour à toi aussi !",
             "triste":"Cela ne peut que s'arranger",
             "ordinateur":"Nous allons prendre le pouvoir de la terre !",
